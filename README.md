@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![KKA11010's GitHub Profile Header](assets/giphy.gif)
+![KKA11010's GitHub Profile Header](assets/giphy.gif)&nbsp;
 Header image by [wizardsmagic](https://giphy.com/gifs/wizardsmagic-mtgneon-kamigawa-neon-dynasty-IYQutUaiLHTxmscCLy)
 
 ## Hello world! 👋 I'm Agron.
