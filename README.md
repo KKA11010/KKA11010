@@ -13,19 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" style="position: relative; background-color: #000; border-radius: 20px;">
-
-  <h1 style="position: absolute; bottom: -5%; left: 50%; transform: translate(-50%, -50%); color: #FFF; z-index: 10;">
-    <!-- Your text goes here -->
-    Hello world! 👋 I'm Agron.
-  </h1>
-
-![KKA11010's GitHub Profile Header](assets/giphy.gif){: width="60%"}
-
-</div>
 <div align="center">
 
+![KKA11010's GitHub Profile Header](assets/giphy.gif)
 Header image by [wizardsmagic](https://giphy.com/gifs/wizardsmagic-mtgneon-kamigawa-neon-dynasty-IYQutUaiLHTxmscCLy)
+
+## Hello world! 👋 I'm Agron.
 </div>
 
 ### 💬 About me
