@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![KKA11010's GitHub Profile Header](assets/giphy.gif)&nbsp;
+![KKA11010's GitHub Profile Header](assets/giphy.gif)
+<br />
 Header image by [wizardsmagic](https://giphy.com/gifs/wizardsmagic-mtgneon-kamigawa-neon-dynasty-IYQutUaiLHTxmscCLy)
 
 ## Hello world! 👋 I'm Agron.
+[Find me on Nostr](https://snort.social/p/npub1pp355axf69z8ndrz8zdnqa54s90e5xy737mwqk9e9cvt606nwszsdx8nu7)
 </div>
 
 ### 💬 About me
 
 I'm passionate about many creative pursuits, including drawings, music, videography, building FPV racing drones, and of course, coding. I spend the most of my time developing websites and reading documentations about the newest technologies around software. I love the fact that anyone can build anything without asking for permission. I find the open source community very interesting. It is diverse and highly motivated. Whether it's development or advocacy, open source software and other collaborative projects benefit through, and because of, **the community**.
-
-[Find me on Nostr](https://snort.social/p/npub1pp355axf69z8ndrz8zdnqa54s90e5xy737mwqk9e9cvt606nwszsdx8nu7)&nbsp;
 
 ### 🔭 Current project
 
