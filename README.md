@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # Hello world! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Agron.
 ![KKA11010's GitHub Profile Header](assets/giphy.gif)
+<br />
 Gif by [wizardsmagic](https://giphy.com/gifs/wizardsmagic-mtgneon-kamigawa-neon-dynasty-IYQutUaiLHTxmscCLy)
 
 ## 💻 My Tech Stack:
