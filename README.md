@@ -30,6 +30,6 @@ I'm passionate about many creative pursuits, including drawings, music, videogra
 
 ## 🔭 Current project
 
-I am currently maintaining [a mobile Cashu wallet for Android and iOS](https://github.com/cashubtc/eNuts). Cashu is Ecash for Bitcoin based on David Wagner's variant of Chaumian blinding. The token logic is based on [minicash](https://github.com/phyro/minicash) ([description](https://gist.github.com/phyro/935badc682057f418842c72961cf096c)) which implements a [Blind Diffie-Hellman Key Exchange](https://cypherpunks.venona.com/date/1996/03/msg01848.html) scheme written down [here](https://gist.github.com/RubenSomsen/be7a4760dd4596d06963d67baf140406).
+<!-- I am currently maintaining [a mobile Cashu wallet for Android and iOS](https://github.com/cashubtc/eNuts). Cashu is Ecash for Bitcoin based on David Wagner's variant of Chaumian blinding. The token logic is based on [minicash](https://github.com/phyro/minicash) ([description](https://gist.github.com/phyro/935badc682057f418842c72961cf096c)) which implements a [Blind Diffie-Hellman Key Exchange](https://cypherpunks.venona.com/date/1996/03/msg01848.html) scheme written down [here](https://gist.github.com/RubenSomsen/be7a4760dd4596d06963d67baf140406). -->
 
 </div>
